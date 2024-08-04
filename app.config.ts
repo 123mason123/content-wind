@@ -9,6 +9,12 @@ export default defineAppConfig({
   },
 
   nuxtIcon: {
-    size: '1em'
+    size: '1em',
+
+    aliases: {
+      'key-102': 'i-solar-alt-arrow-down-linear'
+    },
+
+    class: 'mason'
   }
 })
