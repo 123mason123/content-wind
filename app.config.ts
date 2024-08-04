@@ -15,6 +15,6 @@ export default defineAppConfig({
       'key-102': 'i-solar-alt-arrow-down-linear'
     },
 
-    class: 'mason'
+    class: ''
   }
 })
